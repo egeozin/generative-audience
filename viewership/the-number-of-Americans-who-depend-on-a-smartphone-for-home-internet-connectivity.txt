@@ -1,0 +1,42 @@
+Pew Research Center Home Broadband 2015, DECEMBER 21, 2015
+"The number of Americans who depend on a smartphone for home internet connectivity is growing"
+"s"
+######### #########
+Category | 2013 | 2015 | % Change
+All | 8% | 13% | +5
+######### #########
+Category: Gender | 2013 | 2015 | % Change
+Male | 9 | 14 | +5
+Female | 8 | 13 | +5
+######### #########
+Category: Parenthood | 2013 | 2015 | % Change
+Parents | 10 | 17 | +7
+Non-parents | 8 | 12 | +4
+######### #########
+Category: Race | 2013 | 2015 | % Change
+White | 6 | 10 | +4
+African American | 10 | 19 | +9
+Hispanic | 16 | 23 | +7
+######### #########
+Category: Age | 2013 | 2015 | % Change
+18-29 | 12 | 19 | +7
+30-49 | 9 | 16 | +7
+50-64 | 7 | 11 | +4
+65+ | 3 | 7 | +4
+######### #########
+Category: Income | 2013 | 2015 | % Change
+Under $20K | 13 | 21 | +8
+$20K-$50K | 10 | 16 | +6
+$50K-$75K | 5 | 10 | +5
+$75K-$100K | 6 | 8 | +2
+Over $100K | 4 | 6 | +2
+######### #########
+Category: Degree | 2013 | 2015 | % Change
+High school grad or less | 11 | 18 | +7
+Some college/Assoc. deg. | 8 | 14 | +6
+College + | 4 | 6 | +2
+######### #########
+Category: Community Type | 2013 | 2015 | % Change
+Rural | 9 | 15 | +6
+Urban | 9 | 15 | +6
+Suburban | 7 | 12 | +5
