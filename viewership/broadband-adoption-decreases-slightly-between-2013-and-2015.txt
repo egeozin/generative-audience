@@ -1,0 +1,42 @@
+Pew Research Center Home Broadband 2015, DECEMBER 21, 2015
+"Broadband adoption decreases slightly between 2013 and 2015"
+"% of adults who have home broadband service"
+######### #########
+Category | 2013 | 2015 | % Change
+All | 70% | 67% | -3
+######### #########
+Category: Gender | 2013 | 2015 | % Change
+Male | 70 | 66 | -4
+Female | 70 | 67 | -3
+######### #########
+Category: Parenthood | 2013 | 2015 | % Change
+Parents | 77 | 73 | -4
+Non-parents | 67 | 64 | -3
+######### #########
+Category: Race | 2013 | 2015 | % Change
+White | 74 | 72 | -2
+African American | 62 | 54 | -8
+Hispanic | 56 | 50 | -6
+######### #########
+Category: Age | 2013 | 2015 | % Change
+18-29 | 81 | 75 | -6
+30-49 | 77 | 74 | -3
+50-64 | 68 | 65 | -3
+65+ | 47 | 45 | -2
+######### #########
+Category: Income | 2013 | 2015 | % Change
+Under $20K | 46 | 41 | -5
+$20K-$50K | 67 | 63 | -4
+$50K-$75K | 85 | 80 | -5
+$75K-$100K | 88 | 88 | 0
+Over $100K | 93 | 90 | -3
+######### #########
+Category: Degree | 2013 | 2015 | % Change
+High school grad or less | 50 | 47 | -3
+Some college/Assoc. deg. | 80 | 75 | -5
+College + | 90 | 87 | -3
+######### #########
+Category: Community Type | 2013 | 2015 | % Change
+Rural | 60 | 55 | -5
+Urban | 70 | 67 | -3
+Suburban | 74 | 70 | -4
