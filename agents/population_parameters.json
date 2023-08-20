@@ -1,0 +1,42 @@
+{
+    "Race": {
+        "White": 51.54,
+        "African American": 42.45,
+        "Hispanic": 41.09
+    },
+    "Gender": {
+        "Male": 48.84,
+        "Female": 49.18
+    },
+    "Age": {
+        "18-29": 56.52,
+        "30-49": 54.86,
+        "50-64": 47.18,
+        "65+": 32.46
+    },
+    "Income": {
+        "Under $20K": 34.4,
+        "$20K-$50K": 47.49,
+        "$50K-$75K": 56.9,
+        "$75K-$100K": 61.6,
+        "Over $100K": 62.28
+    },
+    "Degree": {
+        "Less than HS": 3.37,
+        "High School": 13.99,
+        "Some College": 22.96,
+        "Bachelor's or higher": 59.68
+    },
+    "Community Type": {
+        "Urban": 36.04,
+        "Suburban": 39.34,
+        "Rural": 24.62
+    },
+    "Marital Status": {
+        "Married": 50.43,
+        "Living with partner": 7.11,
+        "Divorced/Separated": 13.12,
+        "Widowed": 5.66,
+        "Never married": 23.68
+    }
+}
