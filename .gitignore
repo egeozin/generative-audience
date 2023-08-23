@@ -14,7 +14,7 @@ yarn.lock*
 package-lock.json
 Cargo.lock
 
-# Runtime data
+# Runtime persona_data
 pids
 *.pid
 *.seed
