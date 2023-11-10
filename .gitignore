@@ -1,6 +1,9 @@
 
 # These files should be generated during dev/publishing
 server/static/*
+
+analysis/embeds_upworthy_experiment_simpler.csv
+analysis/ablation_data_openai_ada_002.csv
 #mISC
 .DS_Store
 .vscode/
